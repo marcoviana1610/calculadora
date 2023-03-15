@@ -2,7 +2,7 @@
 
 <h2>VEJA O PROJETO EM</h2>
 
-- https://marcoviana1610.github.io/calculadora/
+- https://majestic-sfogliatella-fee3f1.netlify.app/
 
 
 
